@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Toyota Camry",
+        "type": "Car",
+        "price": "25000",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcars&psig=AOvVaw251yo4rHbJY9zbMSVHsjNQ&ust=1735491619658000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj_5J34yooDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "name": "Honda Civic",
+        "type": "Car",
+        "price": "22000",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fred%2520car%2F&psig=AOvVaw251yo4rHbJY9zbMSVHsjNQ&ust=1735491619658000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj_5J34yooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    },
+    {
+        "name": "New Car",
+        "type": "SUV",
+        "price": 20000,
+        "image": "suv_image.jpg"
+    }
+]
